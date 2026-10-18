@@ -336,11 +336,12 @@ A little question, yours and mine.
 No riddles, hints, or hidden clue,
 I'm saying what I feel to you:
 
-ARJOO, I REALLY LIKE YOU, AND I WANT TO BE MORE THAN JUST A FRIEND. 💗
+ARJOO, you are really someone anyone would want and i am one of those.💗
 
-Will you be my girlfriend? 🌹💖
+never stop to smile, never forget who you are.🌹💖
 
-Take your time, be honest, and know that whatever your answer, you deserve kindness and respect.`
+And at last i want to say that please listen to me not as a girl but as a friend, don't threat me like before🙂, 
+because you are someone i don't want to hear that from you.And please listen, listen the effort i done and i want to make in future.If you like it then text the feedback on my main account of Insta😶.Bhot dam laga ke likha hai padhne ke baad mujhe kuch ulta seedha bol mat dena please🙏🏻, kyunki bhot mehnat lagi hai isse banane mein.`
 ];
 
 const opened=[false,false,false];
